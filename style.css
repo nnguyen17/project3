@@ -1,3 +1,9 @@
+.navigation {
+  font-family: 'Srisakdi', cursive;
+  font-weight: 300;
+  text-align: center;
+  font-size: small;
+}
 #sec1 p {
   color: #1E90FF;
   text-align: center;
