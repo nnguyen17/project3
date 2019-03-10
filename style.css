@@ -100,3 +100,47 @@ h4 {
 	padding: 10px 150px;
 	width: 50%;
 }
+#mu {
+	float: center;
+	position: relative;
+	padding: 1px 675px;
+	width: 30%;
+}
+#ots {
+	float: center;
+	position: relative;
+	padding: 1px 665px;
+	width: 30%;
+}
+.sec5 p {
+  font-family: 'PT Sans', sans-serif;color: black;
+  font-weight: 500;
+  font-size: 20px;
+}
+.sec6 p {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+}
+.ytvid h3 {
+	font-weight: 500;
+    font-size: 30px;
+	
+}
+#c1 {
+	float: center;
+	position: relative;
+	padding: 10px 675px;
+}
+#oct {
+	float: center;
+	position: relative;
+	padding: 1px 665px;
+	width: 30%;
+}
+#cea {
+	float: center;
+	position: relative;
+	padding: 1px 670px;
+	width: 30%;
+}
