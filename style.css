@@ -83,31 +83,26 @@ h4 {
     text-align: left;
 }
 #vdsc {
-	float: center;
 	position: relative;
 	padding: 10px 150px;
 	width: 50%;
 }
 #vdbc {
-	float: center;
 	position: relative;
 	padding: 10px 150px;
 	width: 50%;
 }
 #iit {
-	float: center;
 	position: relative;
 	padding: 10px 150px;
 	width: 50%;
 }
 #mu {
-	float: center;
 	position: relative;
 	padding: 1px 675px;
 	width: 30%;
 }
 #ots {
-	float: center;
 	position: relative;
 	padding: 1px 665px;
 	width: 30%;
@@ -128,18 +123,15 @@ h4 {
 	
 }
 #c1 {
-	float: center;
 	position: relative;
 	padding: 10px 675px;
 }
 #oct {
-	float: center;
 	position: relative;
 	padding: 1px 665px;
 	width: 30%;
 }
 #cea {
-	float: center;
 	position: relative;
 	padding: 1px 670px;
 	width: 30%;
