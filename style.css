@@ -62,7 +62,7 @@ h4 {
 }
 .sec2 ul li  {
   font-size:  0.75em;
-  text-align: center;
+  
   list-style-type: none;
 }
 .sec3 ul li  {
@@ -83,18 +83,21 @@ h4 {
   text-align: left;
 }
 #vdsc {
-  position: relative;
-  padding: 10px 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 50%;
 }
 #vdbc {
-  position: relative;
-  padding: 10px 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 50%;
 }
 #iit {
-  position: relative;
-  padding: 10px 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 50%;
 }
 #mu {
