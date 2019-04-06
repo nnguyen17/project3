@@ -40,6 +40,7 @@ h1 {
 .sec2, .sec3, .sec4  {
   width: 33%;
   float: left;
+  position: relative;
   font-size: 2.5em;
   text-align: left;
 }
@@ -70,23 +71,39 @@ h2, h3, h4 {
   margin-right: auto;
   width: 50%;
 }
+#champ {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  float: left;
+  position: absolute;
+  padding: 500px 1320px;
+}
 #mu {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
+  float: left;
+  position: absolute;
 }
 #ots {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
+  float: left;
+  position: absolute;
 }
 .sec5 p, .sec6 p {
   font-family: 'PT Sans', sans-serif;
   color: black;
   font-weight: 500;
   font-size: 20px;
+  float: left;
+  position: relative;
+  padding: 0px 600px;
 }
 .ytvid h3 {
   font-weight: 500;
@@ -97,15 +114,28 @@ h2, h3, h4 {
   margin-left: auto;
   margin-right: auto;
 }
+#champ2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  float: left;
+  position: absolute;
+  padding: 500px 1320px;
+}
 #oct {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
+  float: left;
+  position: absolute;
 }
 #cea {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
+  float: left;
+  position: absolute;
 }
