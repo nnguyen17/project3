@@ -1,4 +1,9 @@
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 800px) {
+body {
+  background-position: center;
+  width: 100%;
+  background-color: lightgreen;
+}
 #champ {
   display: block;
   margin-left: auto;
@@ -13,6 +18,43 @@
   width: 30%;
 }
 #ots {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  float: left;
+}
+.sec5 p, .sec6 p {
+  font-family: 'PT Sans', sans-serif;
+  color: black;
+  font-weight: 500;
+  font-size: 20px;
+  float: left;
+}
+.ytvid h3 {
+  font-weight: 500;
+  font-size: 30px;
+}
+#c1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#champ2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  float: left;
+}
+#oct {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  float: left;
+}
+#cea {
   display: block;
   margin-left: auto;
   margin-right: auto;
