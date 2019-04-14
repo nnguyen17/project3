@@ -1,0 +1,22 @@
+@media only screen and (max-width: 400px) {
+#champ {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  float: left;
+}
+#mu {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+#ots {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  float: left;
+}
+}
