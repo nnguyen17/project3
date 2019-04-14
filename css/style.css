@@ -1,7 +1,7 @@
 body {
   background-position: center;
   width: 100%;
-  background-color: lightblue;
+  background-color: lightgreen;
 }
 a:link, a:visited {
   color: black;
@@ -76,34 +76,24 @@ h2, h3, h4 {
   margin-left: auto;
   margin-right: auto;
   width: 30%;
-  float: left;
-  position: absolute;
-  padding: 500px 1320px;
 }
 #mu {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
-  float: left;
-  position: absolute;
 }
 #ots {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
-  float: left;
-  position: absolute;
 }
 .sec5 p, .sec6 p {
   font-family: 'PT Sans', sans-serif;
   color: black;
   font-weight: 500;
   font-size: 20px;
-  float: left;
-  position: relative;
-  padding: 0px 600px;
 }
 .ytvid h3 {
   font-weight: 500;
@@ -119,23 +109,16 @@ h2, h3, h4 {
   margin-left: auto;
   margin-right: auto;
   width: 30%;
-  float: left;
-  position: absolute;
-  padding: 500px 1320px;
 }
 #oct {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
-  float: left;
-  position: absolute;
 }
 #cea {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
-  float: left;
-  position: absolute;
 }
