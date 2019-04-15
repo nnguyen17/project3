@@ -73,10 +73,62 @@ body {
   position: absolute;
 }
 }
-@media only screen and (max-width: 400px) {
+
+@media only screen and (max-width: 500px) {
 body {
   background-position: center;
   width: 100%;
   background-color: white;
+}
+#champ {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+#mu {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+#ots {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.sec5 p, .sec6 p {
+  font-family: 'PT Sans', sans-serif;
+  color: black;
+  font-weight: 500;
+  font-size: 20px;
+}
+.ytvid h3 {
+  font-weight: 500;
+  font-size: 30px;
+}
+#c1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#champ2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+#oct {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+#cea {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 }
 }
