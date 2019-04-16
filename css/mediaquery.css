@@ -74,11 +74,11 @@ body {
 }
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
 body {
   background-position: center;
   width: 100%;
-  background-color: white;
+  background-color: gray;
 }
 #champ {
   display: block;
